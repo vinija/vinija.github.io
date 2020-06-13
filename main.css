@@ -47,8 +47,12 @@ table {
 	border: 1px  ;
 }
 
-a {	
-	text-decoration: none;
+a {
+    line-height: 1em;
+    display: inline-block;
+    text-decoration: none;
+    padding: 120;
+    margin: 42;
 }
 tr {
 	font-weight: normal;
@@ -129,10 +133,10 @@ li {
 }
 
 @media screen and (max-width: 500px) {
-  .navbar a {
-    float: none;
-    display: block;
-  }
+	.navbar a {
+	  float: none;
+	  display: block;
+}
 }
 
 
