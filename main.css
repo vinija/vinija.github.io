@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
 
 h3 {
 	color: #ffff00; 
@@ -16,12 +17,12 @@ h4 {
 
 }
 
-a:hover h4:before {
-	content: '> ';
+a {
+	font-family: 'Quicksand'; 
 }
 
 h1 {
-	font-family: 'VT323', monospace; 
+	font-family: 'Quicksand'; 
 	font-size: 5em;
 	margin-left: 70px;
 	margin-right: 70px;
