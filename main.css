@@ -78,8 +78,6 @@ img {
 	margin-left: 7%;
 	width: 64px;
 	height: 64px;
-	-webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-	filter: grayscale(100%);
 
 }
 
