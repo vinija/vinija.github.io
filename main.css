@@ -98,6 +98,11 @@ li {
   background-color: rgb(228, 186, 215);
 }
 
+/* Solid border */
+hr.solid {
+	border-top: 3px dotted #bbb;
+  }
+
 
 
 
