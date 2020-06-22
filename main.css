@@ -99,7 +99,7 @@ li {
 }
 
 /* Solid border */
-hr.solid {
+hr.dotted {
 	border-top: 3px dotted #bbb;
   }
 
