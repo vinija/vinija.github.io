@@ -17,6 +17,10 @@ table {
 	border: 1px  ;
 }
 
+a.email{
+	font-family: 'Quicksand'; 
+}
+
 a {
     display: inline-block;
     text-decoration: none;
@@ -103,6 +107,20 @@ hr.dotted {
 	border-top: 3px dotted #bbb;
   }
 
+  * {
+	box-sizing: content-box;
+  }
+  
+  .row {
+	display: flex;
+  }
+  
+  /* Create two equal columns that sits next to each other */
+  .column {
+	flex: 500%;
+	padding: 10px;
+  }
+  .button:hover {background-color: gray;}
 
 
 
